@@ -194,6 +194,8 @@ st.markdown("""
         margin: 0.5rem 0;
         border-radius: 8px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        color: #1e293b !important; 
+        font-size: 1.05rem;
     }
     
     /* Success message */
