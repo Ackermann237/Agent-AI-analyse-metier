@@ -487,7 +487,7 @@ if analyze and demande.strip():
     st.markdown("<br>", unsafe_allow_html=True)
     
     st.markdown("""
-    <div style='background: #fef3c7; border-left: 5px solid #f59e0b; padding: 1.5rem; border-radius: 10px;'>
+    <div style='background: #0000; border-left: 5px solid #f59e0b; padding: 1.5rem; border-radius: 10px;'>
         <h4 style='color: #d97706; margin: 0 0 0.5rem 0;'>📅 Plan Moyen Terme (1-3 mois)</h4>
     </div>
     """, unsafe_allow_html=True)
